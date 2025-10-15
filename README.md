@@ -1,7 +1,7 @@
-# Mahlubi-Digital-Portifolio
+# Mahlubandile Habe-Digital-Portifolio
 Digital Portfolio
 
-Name: Mahluabndile Habe
+Name: Mahlubandile Habe
 Student Number: 222150211
 
 Qualification: Diploma in Information and Communication Technology
@@ -104,11 +104,7 @@ The interviewer noted that my answers were well-structured and that I maintained
 **Workplace Etiquette (Generated Evidence)**
  **Evidence**
 
-Team Collaboration Project
-
-Reflection Report on Professional Conduct
-
-Presentation on Workplace Behavior and Ethics
+https://github.com/Mahlubi/Mahlubi-Digital-Portifolio/blob/main/Evidence_for_Workplace_Etiquette_Mahlubandile_Habe.docx
 
  **Reflection (STAR Technique)**
 
