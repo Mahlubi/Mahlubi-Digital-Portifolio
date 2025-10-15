@@ -60,8 +60,7 @@ I became more confident and structured in my communication during interviews. I 
 
 **Evidence**
 
-LinkedIn Profile (https://www.linkedin.com
-)
+CertificateOfCompletion_Evaluating Business Investment Decisions (1).pdf
 
  **Reflection (STAR Technique)**
 
