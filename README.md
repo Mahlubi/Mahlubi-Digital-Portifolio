@@ -8,7 +8,7 @@ Faculty: Informatics and Design, Cape Peninsula University of Technology
 Academic Year: 2025
 Platform: GitHub Pages
 
- Introduction
+ **Introduction**
 
 This Digital Portfolio showcases my professional and personal development as an ICT student at the Cape Peninsula University of Technology (CPUT). It highlights my competencies in Business Communication, Interview Skills, Professional Networking, Mock Interview, and Workplace Etiquette.
 
@@ -16,14 +16,14 @@ The portfolio reflects my readiness for the workplace by presenting evidence of 
 
 Each section demonstrates growth in areas that contribute to my employability and professional image in the ICT industry.
 
-Business Communication
+**Business Communication**
 
-Evidence
+**Evidence**
 
 Curriculum Vitae (CV)
 
 
-Reflection (STAR Technique)
+**Reflection (STAR Technique)**
 
 Situation:
 During my Work Readiness module, I was required to prepare professional documents such as a CV, cover letter, and formal email as part of applying for a potential ICT internship.
@@ -37,12 +37,12 @@ I used a modern CV template and ensured that my personal information, education,
 Result:
 I improved my ability to write professional business documents and communicate confidently in a formal environment. I received positive feedback from my lecturer, and I now have polished documents ready for job applications.
 
-Interview Skills
- Evidence
+**Interview Skills**
+ **Evidence**
 
 List of Interview Questions and Sample Answers
 
-Reflection (STAR Technique)
+**Reflection (STAR Technique)**
 
 Situation:
 As part of the professional development activities, we participated in interview preparation exercises to simulate real-world job interviews.
@@ -56,14 +56,14 @@ I researched the STAR technique for answering questions and practiced with class
 Result:
 I became more confident and structured in my communication during interviews. I learned how to control my pace, maintain eye contact, and highlight my achievements effectively.
 
-Professional Networking
+**Professional Networking**
 
-Evidence
+**Evidence**
 
 LinkedIn Profile (https://www.linkedin.com
 )
 
- Reflection (STAR Technique)
+ **Reflection (STAR Technique)**
 
 Situation:
 I realized the importance of professional networking for ICT students to connect with potential employers and peers in the industry.
@@ -77,12 +77,12 @@ I created a LinkedIn profile and uploaded my CV. I connected with lecturers, cla
 Result:
 My LinkedIn profile now represents my professional identity. I’ve grown my network and received feedback on my projects from industry professionals. Networking has opened my mind to new career paths and collaboration opportunities.
 
-Mock Interview (Generated Evidence)
-Evidence
+**Mock Interview (Generated Evidence)**
+**Evidence**
 
 Simulated Online Interview with Lecturer/Peer
 
-Reflection (STAR Technique)
+**Reflection (STAR Technique)**
 
 Situation:
 As part of the readiness program, we participated in a simulated mock interview session conducted by a peer and observed by a lecturer.
@@ -96,8 +96,8 @@ I prepared by researching the company and reviewing my technical knowledge. Duri
 Result:
 The interviewer noted that my answers were well-structured and that I maintained good eye contact. I also identified areas for improvement, such as speaking more concisely and avoiding filler words. This exercise strengthened my interview readiness for future job opportunities.
 
-Workplace Etiquette (Generated Evidence)
- Evidence
+**Workplace Etiquette (Generated Evidence)**
+ **Evidence**
 
 Team Collaboration Project
 
@@ -105,7 +105,7 @@ Reflection Report on Professional Conduct
 
 Presentation on Workplace Behavior and Ethics
 
- Reflection (STAR Technique)
+ **Reflection (STAR Technique)**
 
 Situation:
 During a group project in one of my ICT subjects, I was responsible for coordinating part of the development process and ensuring professional conduct among team members.
@@ -119,7 +119,7 @@ I scheduled team meetings, communicated respectfully, and contributed equally to
 Result:
 The project was completed on time with excellent teamwork. I learned that maintaining respect and accountability improves overall productivity and creates a positive work environment. This experience helped me understand how essential workplace etiquette is in professional settings.
 
- Conclusion
+ **Conclusion**
 
 This Digital Portfolio represents my personal and professional growth throughout my academic journey in ICT. It reflects my ability to communicate effectively, perform confidently in interviews, network professionally, and maintain workplace discipline.
 
