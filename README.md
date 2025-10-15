@@ -3,9 +3,13 @@ Digital Portfolio
 
 Name: Mahluabndile Habe
 Student Number: 222150211
+
 Qualification: Diploma in Information and Communication Technology
+
 Faculty: Informatics and Design, Cape Peninsula University of Technology
+
 Academic Year: 2025
+
 Platform: GitHub Pages
 
  **Introduction**
@@ -20,8 +24,8 @@ Each section demonstrates growth in areas that contribute to my employability an
 
 **Evidence**
 
-Curriculum Vitae (CV)
-
+[Curriculum Vitae (CV)
+](https://github.com/Mahlubi/Mahlubi-Digital-Portifolio/blob/main/MAHLUBI%20HABE.pdf)
 
 **Reflection (STAR Technique)**
 
