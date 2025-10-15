@@ -42,6 +42,7 @@ I improved my ability to write professional business documents and communicate c
 
 [List of Interview Questions and Sample Answers
 ](https://github.com/Mahlubi/Mahlubi-Digital-Portifolio/blame/main/Mahluabndile_Habe_Interview_Questions_and_Answers.docx)
+
 **Reflection (STAR Technique)**
 
 Situation:
@@ -60,7 +61,7 @@ I became more confident and structured in my communication during interviews. I 
 
 **Evidence**
 
-CertificateOfCompletion_Evaluating Business Investment Decisions (1).pdf
+[CertificateOfCompletion_Evaluating Business Investment Decisions (1).pdf](https://github.com/Mahlubi/Mahlubi-Digital-Portifolio/blob/main/CertificateOfCompletion_Evaluating%20Business%20Investment%20Decisions%20(1).pdf)
 
  **Reflection (STAR Technique)**
 
