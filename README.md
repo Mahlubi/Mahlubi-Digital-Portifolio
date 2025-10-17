@@ -2,6 +2,7 @@
 Digital Portfolio
 
 Name: Mahlubandile Habe
+
 Student Number: 222150211
 
 Qualification: Diploma in Information and Communication Technology
